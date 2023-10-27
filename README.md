@@ -23,3 +23,7 @@ pip install pytest-watch
 Then, run pytest-watch to continuously monitor the code and run the tests automatically when changes are detected:
 
 ptw
+
+run the bat file which will run the test cases automatically
+
+./run_tests.bat
